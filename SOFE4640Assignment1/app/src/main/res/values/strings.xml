@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SOFE4640-Assignment-1</string>
+
+    <string name="introduction">This Mortgage Payment Calculator can help you see what your mortgage payments may look like. This tool will provide you with an estimated monthly payment amount based on your mortgage principal amount, the interest rate, and the amortization period.</string>
+</resources>
